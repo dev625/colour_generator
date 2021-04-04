@@ -36,6 +36,7 @@ function App() {
           </button>
         </form>
       </section>
+
       <section className="colors">
         {list.map((colour, index) => {
           return (
